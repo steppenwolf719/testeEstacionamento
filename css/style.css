@@ -1,0 +1,15 @@
+.jumbotron
+{
+    position: left;
+    left:37%;
+    top:29%;
+    width:320px;
+    height:270px;
+}
+.jumbotron #formulario
+{
+    position:absolute;
+    display:block;
+}
+
+
